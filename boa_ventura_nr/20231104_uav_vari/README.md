@@ -38,7 +38,7 @@ This section provides direct access to the final, verifiable data assets stored 
 
 *   **Metadata File:** Technical Specifications
     *   **Description:** A JSON file containing all processing details, statistical summaries, and proofs of integrity.
-    *   **URI:** `[INSERIR LINK IPFS DO VARI_METADATA.JSON AQUI]`
+    *   **URI:** [`ipfs://bafkreicw46y7nrszobyqdrhj45wck6uvkg2g37zvhywdchasiq6a6ryw3y`](https://aquamarine-delicate-narwhal-626.mypinata.cloud/ipfs/bafkreicw46y7nrszobyqdrhj45wck6uvkg2g37zvhywdchasiq6a6ryw3y)
 
 ---
 
