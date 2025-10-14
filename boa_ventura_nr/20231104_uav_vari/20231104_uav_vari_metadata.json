@@ -1,0 +1,61 @@
+{
+  "analysis_title": "Visible Atmospherically Resistant Index - Boa Ventura Natural Reserve - Data Layers",
+  "provenance": {
+    "analysis_date": "2025-10-10",
+    "analysis_software": "QGIS 3.40.11-Bratislava",    
+    "data_source": "Aerial photogrammetric survey with UAV on 2023-11-04"
+  },
+  "application_context": {
+    "primary_use_case": "Regenerative Finance (ReFi)",
+    "complementary_use_case": "Real World Asset (RWA) Tokenization",
+    "description": "These data quantifies vegetation health and density across the asset area. It serves as verifiable evidence of biomass and photosynthetic activity, crucial for carbon credit methodologies and biodiversity assessments in ReFi & RWA protocols.",
+    "compliance_standard": "Self-declared based on emerging ReFi & RWA best practices."
+  },  
+  "raster_properties": {
+    "spatial_reference": {
+      "crs_name": "WGS 84 / UTM zone 23S",
+      "epsg_code": 32723
+    },
+    "extent_bbox": {
+      "min_x": 219313.9619690041872673,
+      "max_x": 220801.5829665208875667,
+      "min_y": 8495234.0960190258920193,
+      "max_y": 8497087.3413006905466318
+    },
+    "resolution_meters": {
+      "x_res": 0.07590290308264198427,
+      "y_res": -0.07590290308259561858
+    },
+    "dimensions_pixels": {
+      "width": 19599,
+      "height": 24416
+    },
+    "band_data_type": "Float32"
+  },  
+  "statistical_summary": {
+    "unit": "VARI Index Value",
+    "min_vari_value": -1,
+    "max_vari_value": 1,
+    "mean_vari_value": 0.04057667904104834,
+    "std_dev_vari_value": 0.1164660099719869
+  },  
+  "vegetation_distribution": [
+  { "class_name": "Non-Vegetated Surfaces (e.g., Exposed Soil, Rock, Water)", "range_vari": "-1.0 to -0.10", "area_sqm": 81478.6303, "percentage": 4.6919 },
+  { "class_name": "Grassland Formations (e.g., Campo Limpo, Cerrado Rupestre)", "range_vari": "-0.10 to 0.10", "area_sqm": 1156580.6495, "percentage": 66.6013 },
+  { "class_name": "Shrubland/Savanna Formations (e.g., Campo Sujo, Cerrado Sensu Stricto)", "range_vari": "0.10 to 0.25", "area_sqm": 406164.3553, "percentage": 23.3889 },  
+  { "class_name": "Forest Formations (e.g., Cerradão, Riparian Forest)", "range_vari": "0.25 to 1.0", "area_sqm": 92348.7491, "percentage": 5.3179 }
+],
+  "associated_files": {
+    "data_file": {
+      "description": "GeoTIFF file of the Visible Atmospherically Resistant Index.",
+      "format": "Cloud Optimized GeoTIFF",
+      "uri": "ipfs://bafybeicl4xafzxasbi7c4y7x4n22khqpyikrrccqzbu7aur6yb3crhmufa",
+      "hash_sha256": "4FE7BADC34641C5F72F703FC37BE9055010994CCAFA41A243B920E95301B94DF"
+    },
+    "preview_image": {
+      "description": "Visible Atmospherically Resistant Index with a Greenness Color Ramp View.",
+      "format": "PNG",
+      "uri": "ipfs://bafybeihs4umqf6h5qpgf5uexsxbchkukdhp4hkr6sduy35crijjaskj6bu"
+    }
+  }
+}

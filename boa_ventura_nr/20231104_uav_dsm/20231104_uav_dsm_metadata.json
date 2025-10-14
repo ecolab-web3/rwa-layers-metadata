@@ -1,0 +1,67 @@
+{
+  "analysis_title": "Digital Surface Model - Boa Ventura Natural Reserve - Data Layers",
+  "provenance": {
+    "analysis_date": "2025-10-01",
+    "analysis_software": "QGIS 3.40.11-Bratislava",
+    "data_source": "Aerial photogrammetric survey with UAV on 2023-11-04"
+  },
+  "application_context": {
+    "primary_use_case": "Regenerative Finance (ReFi)",
+    "complementary_use_case": "Real World Asset (RWA) Tokenization",
+    "description": "These data are structured to serve as a verifiable digital representation of a real-world environmental asset's topography, suitable for use in ReFi protocols and RWA verification processes.",
+    "compliance_standard": "Self-declared based on emerging ReFi & RWA best practices."
+  },
+  "raster_properties": {
+    "spatial_reference": {
+      "crs_name": "WGS 84 / UTM zone 23S",
+      "epsg_code": 32723
+    },
+    "extent_bbox": {
+      "min_x": 219313.9619690041872673,
+      "max_x": 220801.5829665208875667,
+      "min_y": 8495234.0960190258920193,
+      "max_y": 8497087.3413006905466318
+    },
+    "resolution_meters": {
+      "x_res": 0.07590290308264198427,
+      "y_res": -0.07590290308259561858
+    },
+    "dimensions_pixels": {
+      "width": 19599,
+      "height": 24416
+    },
+    "band_data_type": "Float32"
+  },
+  "statistical_summary": {
+    "unit": "meters",
+    "min_elevation": 767.65197753906,
+    "max_elevation": 1095.7159423828,
+    "mean_elevation": 927.02146059636,
+    "std_dev_elevation": 83.014029812337
+  },
+  "altimetric_distribution": [
+    { "range_meters": "750-785", "area_sqm": 42062.6249, "percentage": 2.3288 },
+    { "range_meters": "785-820", "area_sqm": 173684.8034, "percentage": 9.6162 },
+    { "range_meters": "820-855", "area_sqm": 222776.5142, "percentage": 12.3342 },
+    { "range_meters": "855-890", "area_sqm": 249109.2527, "percentage": 13.7921 },
+    { "range_meters": "890-925", "area_sqm": 239236.3178, "percentage": 13.2455 },
+    { "range_meters": "925-960", "area_sqm": 167635.0977, "percentage": 9.2812 },
+    { "range_meters": "960-995", "area_sqm": 164560.4929, "percentage": 9.1110 },
+    { "range_meters": "995-1030", "area_sqm": 310772.7056, "percentage": 17.2062 },
+    { "range_meters": "1030-1065", "area_sqm": 218871.7039, "percentage": 12.1180 },
+    { "range_meters": "1065-1100", "area_sqm": 17461.4675, "percentage": 0.9668 }
+  ],
+  "associated_files": {
+    "data_file": {
+      "description": "GeoTIFF file of the Digital Surface Model.",
+      "format": "Cloud Optimized GeoTIFF",
+      "uri": "ipfs://bafybeicj2up32uj3ioepuddg75k5rg2zib3x5s25whv3lsjlczh2iqolwm",
+      "hash_sha256": "D1A65D858E41A0B7C57B1C700E0528512AD912913DFE89F5BCDF72B8540B74BB"
+    },
+    "preview_image": {
+      "description": "Digital Surface Model Hillshade View.",
+      "format": "PNG",
+      "uri": "ipfs://bafybeihuufj6qq7liubcue7dxvfjy4ersqh3bhmltphub6x4by44g734f4"
+    }
+  }
+}
