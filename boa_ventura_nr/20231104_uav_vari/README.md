@@ -4,8 +4,6 @@
 ![Data Type](https://img.shields.io/badge/Type-Geospatial%20(VARI)-blue)
 ![Software](https://img.shields.io/badge/Software-QGIS%20%7C%20GRASS%20%7C%20GDAL-orange)
 ![License](https://img.shields.io/badge/License-CC--BY--4.0-lightgrey)
-![Discord](https://img.shields.io/discord/922972928509546536?color=7289DA&label=Discord&logo=discord&logoColor=white)
-![Twitter](https://img.shields.io/twitter/follow/ecolab_web3?style=social)
 
 ---
 
