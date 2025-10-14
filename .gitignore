@@ -1,3 +1,3 @@
 # Ignore raw and intermediate data folders
-_base/
-_sentinel-2_l2a/
+boa_ventura_nr/20231104_uav_dsm/_base/
+boa_ventura_nr/20231104_uav_dsm/_sentinel-2_l2a/
