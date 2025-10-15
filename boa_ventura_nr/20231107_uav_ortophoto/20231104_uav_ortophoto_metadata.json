@@ -1,0 +1,100 @@
+{
+  "asset_title": "Orthophoto - Boa Ventura Natural Reserve - Data Layers",
+  "provenance": {
+    "acquisition_date": "2023-11-04",
+    "processing_date": "2023-12-02",
+    "processing_software": "WebODM",
+    "data_source": "Raw aerial images from UAV survey on 2023-11-04",
+    "acquisition_parameters": {
+      "platform": "FIMI X8 SE 2022 V2",
+      "sensor": "Sony 1/2 inch CMOS Sensor with 48 million pixels",
+      "flight_altitude_m_agl": 200,
+      "image_count": 195
+    }
+  },
+  "application_context": {
+    "primary_use_case": "Visual Baseline & Source Data",
+    "complementary_use_case": "Regenerative Finance (ReFi) & Real World Asset (RWA) Tokenization",
+    "description": "These data serve as the high-resolution visual baseline of the asset area at the time of acquisition. It is the primary source data from which analytical layers (e.g., VARI) are derived, enabling visual verification of on-ground conditions and forming a verifiable data lineage for all subsequent analyses.",
+    "compliance_standard": "Self-declared based on emerging ReFi & RWA best practices."
+  },  
+  "raster_properties": {
+    "spatial_reference": {
+      "crs_name": "WGS 84 / UTM zone 23S",
+      "epsg_code": 32723
+    },
+    "extent_bbox": {
+      "min_x": 219313.96186976568,
+      "max_x": 220801.6161463333,
+      "min_y": 8495234.123970395,
+      "max_y": 8497087.348956963
+    },
+    "resolution_meters": {
+      "x_res": 0.07590072839630753,
+      "y_res": -0.07590207186140618
+    },
+    "dimensions_pixels": {
+      "width": 19600,
+      "height": 24416
+    },
+    "bands": [
+      { 
+        "band": 1, 
+        "description": "Red", 
+        "data_type": "Byte",
+        "statistics": {
+          "min": 18,
+          "max": 252,
+          "mean": 130.73990008688,
+          "std_dev": 32.857444341326
+        }
+      },
+      { 
+        "band": 2, 
+        "description": "Green", 
+        "data_type": "Byte",
+        "statistics": {
+          "min": 28,
+          "max": 247,
+          "mean": 136.37391398784,
+          "std_dev": 26.721608783765
+        }
+      },
+      { 
+        "band": 3, 
+        "description": "Blue", 
+        "data_type": "Byte",
+        "statistics": {
+          "min": 1,
+          "max": 243,
+          "mean": 107.20791702867,
+          "std_dev": 32.40908295522
+        }
+      },
+      { 
+        "band": 4, 
+        "description": "Alpha (Transparency)", 
+        "data_type": "Byte",
+        "statistics": {
+          "min": 0,
+          "max": 255,
+          "mean": 161.54385964912,
+          "std_dev": 122.87093073706
+        }
+      }
+    ]
+  },
+  "associated_files": {
+    "data_file": {
+      "description": "GeoTIFF file of the Orthophoto.",
+      "format": "Cloud Optimized GeoTIFF",
+      "uri": "ipfs://QmYourOrthophotoCOGHashHere...",
+      "hash_sha256": "hash_do_seu_arquivo_ortofoto_cog..."
+    },
+    "preview_image": {
+      "description": "Orthophoto for Quick Preview.",
+      "format": "PNG",
+      "uri": "ipfs://QmYourOrthophotoJPEGHashHere..."
+    }
+  }
+}
