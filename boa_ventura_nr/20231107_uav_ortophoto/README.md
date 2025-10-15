@@ -32,15 +32,15 @@ This section provides direct access to the final, verifiable data assets stored 
 
 *   **Data Asset:** Orthophoto (COG)
     *   **Description:** A Cloud Optimized GeoTIFF representing the high-resolution visual state of the property.
-    *   **URI:** `[INSERIR LINK IPFS DO ORTOFOTO COG AQUI]`
+    *   **URI:** [`ipfs://bafybeifxv2daxgdklmgr5hldnr6ufelpw43ujaln2awi75corpxv2ek6k4`](https://aquamarine-delicate-narwhal-626.mypinata.cloud/ipfs/bafybeifxv2daxgdklmgr5hldnr6ufelpw43ujaln2awi75corpxv2ek6k4)
 
 *   **Preview Image:** Compressed Orthophoto Visualization
-    *   **Description:** A compressed JPEG rendering of the orthophoto for quick visualization.
-    *   **URI:** `[INSERIR LINK IPFS DO ORTOFOTO JPEG/PNG PREVIEW AQUI]`
+    *   **Description:** A compressed PNG rendering of the orthophoto for quick visualization.
+    *   **URI:** [`ipfs://bafybeidxge7pkfsdlglypdpzf7ox67sdd3krg5ltfr63q57zhn7qxa2bl4`](https://aquamarine-delicate-narwhal-626.mypinata.cloud/ipfs/bafybeidxge7pkfsdlglypdpzf7ox67sdd3krg5ltfr63q57zhn7qxa2bl4)
 
 *   **Metadata File:** Technical Specifications
     *   **Description:** A JSON file containing all acquisition parameters, processing details, raster properties, and proofs of integrity.
-    *   **URI:** `[INSERIR LINK IPFS DO ORTOFOTO_METADATA.JSON AQUI]`
+    *   **URI:** [`ipfs://bafkreib7twjtzal3g5tnrmdu4chw6ekenchclxszapb3ikixwiphyb6jz4`](https://aquamarine-delicate-narwhal-626.mypinata.cloud/ipfs/bafkreib7twjtzal3g5tnrmdu4chw6ekenchclxszapb3ikixwiphyb6jz4)
 
 > ### ⚠️ Note on Local vs. On-Chain Data
 >

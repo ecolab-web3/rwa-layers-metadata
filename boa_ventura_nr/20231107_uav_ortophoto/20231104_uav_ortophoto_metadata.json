@@ -88,13 +88,13 @@
     "data_file": {
       "description": "GeoTIFF file of the Orthophoto.",
       "format": "Cloud Optimized GeoTIFF",
-      "uri": "ipfs://QmYourOrthophotoCOGHashHere...",
-      "hash_sha256": "hash_do_seu_arquivo_ortofoto_cog..."
+      "uri": "ipfs://bafybeifxv2daxgdklmgr5hldnr6ufelpw43ujaln2awi75corpxv2ek6k4",
+      "hash_sha256": "7DF22F95DCBBFC5D5CF1F4B78CE669709D6C30A138456522D421E1C6EDA28976"
     },
     "preview_image": {
       "description": "Orthophoto for Quick Preview.",
       "format": "PNG",
-      "uri": "ipfs://QmYourOrthophotoJPEGHashHere..."
+      "uri": "ipfs://bafybeidxge7pkfsdlglypdpzf7ox67sdd3krg5ltfr63q57zhn7qxa2bl4"
     }
   }
 }

@@ -40,6 +40,13 @@ This section provides direct access to the final, verifiable data assets stored 
     *   **Description:** A JSON file containing all processing details, statistical summaries, and proofs of integrity.
     *   **URI:** [`ipfs://bafkreicw46y7nrszobyqdrhj45wck6uvkg2g37zvhywdchasiq6a6ryw3y`](https://aquamarine-delicate-narwhal-626.mypinata.cloud/ipfs/bafkreicw46y7nrszobyqdrhj45wck6uvkg2g37zvhywdchasiq6a6ryw3y)
 
+> ### ⚠️ Note on Local vs. On-Chain Data
+>
+> The `.tif` file present in this GitHub repository is a **low-resolution preview version** of the official data asset, created via resampling and compression to comply with GitHub's file size limits.
+>
+> *   **The official, high-resolution data asset** for quantitative analysis is the Cloud Optimized GeoTIFF stored on IPFS, accessible via the URI above.
+> *   The `hash_sha256` documented in the metadata file **refers exclusively to the high-resolution file on IPFS**, ensuring the integrity and verifiability of the true on-chain asset.
+
 ---
 
 ### Processing Environment & Software
