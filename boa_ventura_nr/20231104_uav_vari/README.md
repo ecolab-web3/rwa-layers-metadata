@@ -1,5 +1,7 @@
 # RWA Data Layer: Visible Atmospherically Resistant Index (VARI)
 
+If you find our work valuable, please consider giving us a star on GitHub!
+
 ![Data Asset](https://img.shields.io/badge/Asset-Data%20Layer-green)
 ![Data Type](https://img.shields.io/badge/Type-Geospatial%20(VARI)-blue)
 ![Software](https://img.shields.io/badge/Software-QGIS%20%7C%20GRASS%20%7C%20GDAL-orange)
@@ -83,6 +85,22 @@ Equivalent to "Test Coverage" for smart contracts, this section outlines the rig
 *   **Develop Carbon & Biomass Layers:** Use the validated DSM and VARI layers as primary inputs for advanced modeling to estimate total biomass and sequestered carbon.
 *   **Create a Water Body Data Layer:** Generate a specific layer delineating the property's water resources to enable the future issuance of water credits.
 *   **On-Chain Integration:** Develop smart contracts to read and interpret these data layers for various ReFi applications.
+
+___
+
+## Ecosystem Recognition
+
+E-co.lab is a recognized participant in the **[Avalanche Retro9000](https://retro9000.avax.network/)** program, a retroactive public goods funding initiative by the Avalanche Foundation. Our project has been approved for the "L1s & Infrastructure Tooling" round and is currently live for community voting by participants in the Avalanche ecosystem.
+
+You can view our official submission and support our mission here: **[E-co.lab on Retro9000](https://retro9000.avax.network/discover-builders/cmebmfjtw02g5103tb8aalzvi)**
+
+___
+
+## Contributing
+
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+Please feel free to fork the repo and create a pull request, or open an issue with the tag "enhancement".
 
 ---
 
