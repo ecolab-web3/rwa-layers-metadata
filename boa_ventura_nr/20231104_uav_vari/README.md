@@ -86,7 +86,7 @@ Equivalent to "Test Coverage" for smart contracts, this section outlines the rig
 *   **Create a Water Body Data Layer:** Generate a specific layer delineating the property's water resources to enable the future issuance of water credits.
 *   **On-Chain Integration:** Develop smart contracts to read and interpret these data layers for various ReFi applications.
 
-___
+---
 
 ## Ecosystem Recognition
 
@@ -94,7 +94,7 @@ E-co.lab is a recognized participant in the **[Avalanche Retro9000](https://retr
 
 You can view our official submission and support our mission here: **[E-co.lab on Retro9000](https://retro9000.avax.network/discover-builders/cmebmfjtw02g5103tb8aalzvi)**
 
-___
+---
 
 ## Contributing
 

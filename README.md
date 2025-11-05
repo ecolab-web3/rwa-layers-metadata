@@ -7,7 +7,7 @@ If you find our work valuable, please consider giving us a star on GitHub!
 ![Storage](https://img.shields.io/badge/Storage-IPFS%20%7C%20GitHub-lightgrey)
 ![License](https://img.shields.io/badge/License-MIT%20%26%20CC--BY--4.0-green)
 
-___
+---
 
 ## Quick Start: How to Use and Verify This Data
 
@@ -92,7 +92,7 @@ Our architecture is designed to provide a robust and decentralized "proof-of-rea
 *   **Radical Transparency:** The entire process, from data acquisition to on-chain representation, is documented and made public to allow for full auditability by the community and stakeholders.
 *   **Efficient Accessibility:** The use of COG on IPFS allows applications to efficiently stream only the necessary portions of large geospatial datasets, making the data usable in web environments without requiring full downloads.
 
-___
+---
 
 ## Ecosystem Recognition
 
